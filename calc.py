@@ -1,2 +1,5 @@
-a = int(input('Enter the first number: '))
-b = int(input('Enter the second number: '))
+
+multi = a * b
+div = a / b
+add = a + b
+sub = a - b
